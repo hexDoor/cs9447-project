@@ -1,5 +1,12 @@
 # OverWatch
 
+## This service is no longer supported.
+The workflow will no longer work due to certain OverWatch S3 buckets being deleted as it was costing us money.
+
+**Use at your own risk as the OverWatch devs take no responsibility for any damages incurred by misuse.**
+
+Anyone seriously using this should have no trouble fixing the issue themselves by hosting the necessary buckets themselves.
+
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 ## What is OverWatch?
